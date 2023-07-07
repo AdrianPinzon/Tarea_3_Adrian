@@ -95,3 +95,7 @@ while True:
 
 print("Gracias por usar la nómina.")    
 
+print("Arreglo archivado")
+
+print("Version final")
+
